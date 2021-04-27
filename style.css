@@ -1,0 +1,21 @@
+body{
+     font-style:"Georgia";
+     background:#b5a789;
+     color:purple;
+     padding-left: 11em; 
+     }
+h1{
+   color:blue;
+   text-align:center;
+   }
+h3{
+   color:blue;
+   text-align:center;
+  } 
+h2{
+   color:green;
+   border-style:dotted;
+}              
+.white {
+  color:white;
+}
